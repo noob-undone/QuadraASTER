@@ -1,0 +1,13 @@
+h1, h2, h3 {
+    text-align: center;
+    color: hsl(0, 0%, 0%);
+}
+
+form {
+    text-align: center;
+}
+
+input[type="text"] {
+    text-align: right;
+    width: 2%;
+}
