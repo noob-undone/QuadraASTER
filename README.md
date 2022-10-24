@@ -1,2 +1,2 @@
 # Quadratic-MASTER-
-Solve the rootes of the quadratic equation!
+Solve the roots of the quadratic equation!
